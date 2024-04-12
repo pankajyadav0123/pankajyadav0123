@@ -7,7 +7,10 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 📄 **Resume** [https://drive.google.com/file/d/1BkotPXuXhH8ugRh9qtFtbTt0ysMse3iw/view?usp=sharing](https://drive.google.com/file/d/1BkotPXuXhH8ugRh9qtFtbTt0ysMse3iw/view?usp=sharing)
+- 📄 **Resume** <a href="https://drive.google.com/uc?export=download&id=1fTdvTPVhyjtHRSrn9jpQIj4vuNoG7waH" class="btn btn-primary">Download CV</a>
+- 📄 **Portfolio** <a href="https://pankaj-websites.netlify.app" class="btn btn-secondary">Visit Again</a>
+
+
 
 - ⚡ Fun fact **I'm Funny✌️✌️**
 
