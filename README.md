@@ -1,9 +1,10 @@
 ![logo](https://github.com/pankajyadav0123/pankajyadav0123/blob/main/Pankaj.png)
 <h1 align="center">Hello 👋, I'm Pankaj Yadav</h1>
 <h3 align="center">A passionate Specialization Back-End Java Developer using Some frameworks.</h3>
-<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/bgjttZOc9_IAAAAC/java.gif">
+<img align="right" alt="coding" width="600" src="https://media1.tenor.com/m/bgjttZOc9_IAAAAC/java.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajyadav0123&label=Profile%20views&color=0e75b6&style=flat" alt="pankajyadav0123" /> </p>
-<p align="left"> <a href="https://twitter.com/pankajydv0123" target="blank"><img src="https://img.shields.io/twitter/follow/pankajydv0123?logo=twitter&style=for-the-badge" alt="pankajydv0123" /></a> </p>
+<p align="left"><a href="https://www.linkedin.com/in/pankajyadav0123" target="_blank"><img src="https://img.shields.io/badge/connect%20with%20me-on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" /></a>
+</p>
 
 - 🌱 I’m currently learning **Devops**
 
@@ -12,15 +13,15 @@
 
 
 
-- ⚡ Fun fact **I'm Funny✌️✌️**
+- ⚡ Fun fact **I'm always in sleeping mode🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pankajydv0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pankajydv0123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pankajyadav0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankajyadav0123" height="30" width="40" /></a>
-<a href="https://instagram.com/pankajydv0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pankajydv0123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/h2008390100040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h2008390100040" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ydvcode08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ydvcode08" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pankajyadav0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankajyadav0123" height="50" width="60" /></a>
+<a href="https://twitter.com/pankajydv0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pankajydv0123" height="50" width="60" /></a>
+<a href="https://instagram.com/pankajydv0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pankajydv0123" height="50" width="60" /></a>
+<a href="https://www.hackerrank.com/h2008390100040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h2008390100040" height="50" width="60" /></a>
+<!-- <a href="https://www.leetcode.com/ydvcode08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ydvcode08" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
