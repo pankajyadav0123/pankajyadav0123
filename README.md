@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 📄 **Resume** <a href="https://drive.google.com/uc?export=download&id=1BkotPXuXhH8ugRh9qtFtbTt0ysMse3iw" class="btn btn-secondary py-4 px-5">Download CV</a>
-- 📄 **Portfolio** <a href="https://pankaj-websites.netlify.app" class="btn btn-secondary">Visit Again</a>
+- 📄 **Resume** <a href="https://drive.google.com/uc?export=download&id=1koEvE_tXleJq8CjOaag3v-PcxKvWOWCF" class="btn btn-secondary py-4 px-5">Download CV</a>
+- 📄 **Portfolio** <a href="https://pankajyadav-portfolio.netlify.app" class="btn btn-secondary">Visit</a>
 
 
 
