@@ -1,4 +1,4 @@
-![logo](https://github.com/pankajyadav0123/pankajyadav0123/blob/main/Pankaj.png)
+
 <h1 align="center">Hello 👋, I'm Pankaj Yadav</h1>
 <h3 align="center">A passionate Specialization Back-End Java Developer using Some frameworks.</h3>
 <p><img align="right" alt="coding" width="1010" height="300" src="https://media1.tenor.com/m/bgjttZOc9_IAAAAC/java.gif"> </p>
