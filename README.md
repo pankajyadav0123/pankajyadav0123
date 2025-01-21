@@ -13,7 +13,7 @@
 
 
 
-- ⚡ Fun fact **I'm always in sleeping mode🤣**
+- ⚡ Fun fact **solving debug🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
