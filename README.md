@@ -1,8 +1,8 @@
 
-<h1 align="center">Hello 👋, I'm Pankaj Yadav</h1>
+<h1 align="center">Hello 👋, I'm Pankaj</h1>
 <h3 align="center">A passionate Specialization Back-End Java Developer using Some frameworks.</h3>
 <!-- <p><img align="right" alt="coding" width="1010" height="300" src="https://media1.tenor.com/m/bgjttZOc9_IAAAAC/java.gif"> </p> -->
-<p><img align="right" alt="coding" width="1010" height="300" src="github-header-image.png"> </p>
+<p><img align="right" alt="coding" width="1010" height="250" src="github-header-image.png"> </p>
 <p><img align="right" alt="coding" width="1010" height="200" src="Black and Gray Minimalist LinkedIn Banner (2).png"> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pankajyadav0123&label=Profile%20views&color=0e75b6&style=flat" alt="pankajyadav0123" /> </p>
 <p align="left"><a href="https://www.linkedin.com/in/pankajyadav0123" target="_blank"><img src="https://img.shields.io/badge/connect%20with%20me-on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" /></a>
@@ -45,3 +45,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajyadav0123&show_icons=true&locale=en" alt="pankajyadav0123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajyadav0123&" alt="pankajyadav0123" /></p>
+<h2 align="center">Thank You!</h2>
